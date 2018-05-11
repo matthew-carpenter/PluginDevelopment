@@ -3,15 +3,15 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "StateMachine",
-	"Description": "",
+	"Description": "Generic State Machine Example Plugin. To be extended later.",
 	"Category": "Other",
-	"CreatedBy": "",
+	"CreatedBy": "magnet",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
-	"IsBetaVersion": false,
+	"IsBetaVersion": true,
 	"Installed": false,
 	"Modules": [
 		{
