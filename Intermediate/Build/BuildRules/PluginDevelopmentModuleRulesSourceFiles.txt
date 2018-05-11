@@ -1,0 +1,4 @@
+C:\Users\magnet\Documents\Unreal Projects\PluginDevelopment\Source\PluginDevelopment\PluginDevelopment.Build.cs
+C:\Users\magnet\Documents\Unreal Projects\PluginDevelopment\Plugins\StateMachine\Source\StateMachine\StateMachine.Build.cs
+C:\Users\magnet\Documents\Unreal Projects\PluginDevelopment\Source\PluginDevelopment.Target.cs
+C:\Users\magnet\Documents\Unreal Projects\PluginDevelopment\Source\PluginDevelopmentEditor.Target.cs

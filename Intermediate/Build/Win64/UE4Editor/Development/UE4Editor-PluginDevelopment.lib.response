@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PluginDevelopment.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\magnet\np\projects\unreal\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\magnet\Documents\Unreal Projects\PluginDevelopment\Intermediate\Build\Win64\UE4Editor\Development\PluginDevelopment\PluginDevelopment.cpp.obj"
+"C:\Users\magnet\Documents\Unreal Projects\PluginDevelopment\Intermediate\Build\Win64\UE4Editor\Development\PluginDevelopment\PluginDevelopmentGameModeBase.cpp.obj"
+"C:\Users\magnet\Documents\Unreal Projects\PluginDevelopment\Intermediate\Build\Win64\UE4Editor\Development\PluginDevelopment\PluginDevelopment.init.gen.cpp.obj"
+"C:\Users\magnet\Documents\Unreal Projects\PluginDevelopment\Intermediate\Build\Win64\UE4Editor\Development\PluginDevelopment\PluginDevelopmentGameModeBase.gen.cpp.obj"
+"C:\Users\magnet\np\projects\unreal\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\PluginDevelopment\PCLaunch.rc.res"
+"C:\Users\magnet\np\projects\unreal\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\magnet\Documents\Unreal Projects\PluginDevelopment\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-PluginDevelopment.lib"
